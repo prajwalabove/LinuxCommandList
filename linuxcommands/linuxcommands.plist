@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>alias</key>
+        <string>Create an alias • apropos  Search Help manual pages (man -k)</string>
+        <key>apt-get</key>
+        <string>Search for and install software packages (Debian/Ubuntu) </string>
+        <key>aptitude</key>
+        <string>Search for and install software packages (Debian/Ubuntu) </string>
+        <key>aspell</key>
+        <string>Spell Checker</string>
+        <key>awk</key>
+        <string>Find and Replace text, database sort/validate/index</string>
+        <key>basename</key>
+        <string>Strip directory and suffix from filenames bash GNU Bourne-Again SHell </string>
+        <key>bc</key>
+        <string>Arbitrary precision calculator language </string>
+        <key>bg</key>
+        <string>Send to background</string>
+        <key>break</key>
+        <string>Exit from a loop •</string>
+        <key>builtin</key>
+        <string>Run a shell builtin</string>
+        <key>bzip2</key>
+        <string>Compress or decompress named file(s)</string>
+        <key>cal</key>
+        <string>Display a calendar</string>
+        <key>case</key>
+        <string>Conditionally perform a command</string>
+        <key>cat</key>
+        <string>Concatenate and print (display) the content of files</string>
+        <key>cd</key>
+        <string>Change Directory</string>
+        <key>cfdisk</key>
+        <string>Partition table manipulator for Linux</string>
+        <key>chgrp</key>
+        <string>Change group ownership</string>
+        <key>chmod</key>
+        <string>Change access permissions</string>
+        <key>chown</key>
+        <string>Change file owner and group</string>
+        <key>chroot</key>
+        <string>Run a command with a different root directory</string>
+        <key>chkconfig</key>
+        <string>System services (runlevel)</string>
+        <key>cksum</key>
+        <string>Print CRC checksum and byte counts clear, Clear terminal screen</string>
+        <key>cmp</key>
+        <string>Compare two files</string>
+        <key>comm</key>
+        <string>Compare two sorted files line by line</string>
+        <key>command</key>
+        <string>Run a command - ignoring shell functions •</string>
+        <key>continue</key>
+        <string>Resume the next iteration of a loop •</string>
+        <key>cp</key>
+        <string>Copy one or more files to another location</string>
+        <key>cron</key>
+        <string>Daemon to execute scheduled commands</string>
+        <key>crontab</key>
+        <string>Schedule a command to run at a later time</string>
+        <key>csplit</key>
+        <string>Split a file into context-determined pieces</string>
+        <key>cut</key>
+        <string>Divide a file into several parts</string>
+        <key>date</key>
+        <string>Display or change the date and time</string>
+        <key>dc</key>
+        <string>Desk Calculator</string>
+        <key>dd</key>
+        <string>Convert and copy a file, write disk headers, boot records</string>
+        <key>ddrescue</key>
+        <string>Data recovery tool</string>
+        <key>declare</key>
+        <string>Declare variables and give them attributes •</string>
+        <key>df</key>
+        <string>Display free disk space</string>
+        <key>diff</key>
+        <string>Display the differences between two files</string>
+        <key>diff3</key>
+        <string>Show differences among three files</string>
+        <key>dig</key>
+        <string>DNS lookup</string>
+        <key>dir</key>
+        <string>Briefly list directory contents</string>
+        <key>dircolors</key>
+        <string>Colour setup for `ls'</string>
+        <key>dirname</key>
+        <string>Convert a full pathname to just a path</string>
+        <key>dirs</key>
+        <string>Display list of remembered directories</string>
+        <key>dmesg</key>
+        <string>Print kernel and driver messages </string>
+        <key>du</key>
+        <string>Estimate file space usage</string>
+        <key>echo</key>
+        <string>Display message on screen •</string>
+        <key>egrep</key>
+        <string>Search file(s) for lines that match an extended expression</string>
+        <key>eject</key>
+        <string>Eject removable media</string>
+        <key>enable</key>
+        <string>Enable and disable builtin shell commands •</string>
+        <key>env</key>
+        <string>Environment variables ethtool  Ethernet card settings</string>
+        <key>eval</key>
+        <string>Evaluate several commands/arguments</string>
+        <key>exec</key>
+        <string>Execute a command</string>
+        <key>exit</key>
+        <string>Exit the shell</string>
+        <key>expect</key>
+        <string>Automate arbitrary applications accessed over a terminal</string>
+        <key>expand</key>
+        <string>Convert tabs to spaces</string>
+        <key>export</key>
+        <string>Set an environment variable</string>
+        <key>expr</key>
+        <string>Evaluate expressions</string>
+        <key>false</key>
+        <string>Do nothing, unsuccessfully</string>
+        <key>fdformat</key>
+        <string>Low-level format a floppy disk</string>
+        <key>fdisk</key>
+        <string>Partition table manipulator for Linux</string>
+        <key>fg</key>
+        <string>Send job to foreground </string>
+        <key>fgrep</key>
+        <string>Search file(s) for lines that match a fixed string</string>
+        <key>file</key>
+        <string>Determine file type</string>
+        <key>find</key>
+        <string>Search for files that meet a desired criteria</string>
+        <key>fmt</key>
+        <string>Reformat paragraph text</string>
+        <key>fold</key>
+        <string>Wrap text to fit a specified width.</string>
+        <key>for</key>
+        <string>Expand words, and execute commands format : Format disks or tapes free Display memory usage</string>
+        <key>fsck</key>
+        <string>File system consistency check and repair</string>
+        <key>ftp</key>
+        <string>File Transfer Protocol</string>
+        <key>function</key>
+        <string>Define Function Macros</string>
+        <key>fuser</key>
+        <string>Identify/kill the process that is accessing a file </string>
+        <key>gawk</key>
+        <string>Find and Replace text within file(s)</string>
+        <key>getopts</key>
+        <string>Parse positional parameters</string>
+        <key>grep</key>
+        <string>Search file(s) for lines that match a given pattern</string>
+        <key>groupadd</key>
+        <string>Add a user security group</string>
+        <key>groupdel</key>
+        <string>Delete a group</string>
+        <key>groupmod</key>
+        <string>Modify a group</string>
+        <key>groups</key>
+        <string>Print group names a user is in</string>
+        <key>gzip</key>
+        <string>Compress or decompress named file(s) </string>
+        <key>hash</key>
+        <string>Remember the full pathname of a name argument</string>
+        <key>head</key>
+        <string>Output the first part of file(s)</string>
+        <key>help</key>
+        <string>Display help for a built-in command •</string>
+        <key>history</key>
+        <string>Command History</string>
+        <key>hostname</key>
+        <string>Print or set system name</string>
+        <key>htop</key>
+        <string>Interactive process viewer</string>
+        <key>iconv</key>
+        <string>Convert the character set of a file</string>
+        <key>id</key>
+        <string>Print user and group id's</string>
+        <key>if</key>
+        <string>Conditionally perform a command</string>
+        <key>ifconfig</key>
+        <string>Configure a network interface</string>
+        <key>ifdown</key>
+        <string>Stop a network interface </string>
+        <key>ifup</key>
+        <string>Start a network interface up</string>
+        <key>import</key>
+        <string>Capture an X server screen and save the image to file</string>
+        <key>install</key>
+        <string>Copy files and set attributes</string>
+        <key>ip</key>
+        <string>Routing, devices and tunnels</string>
+        <key>jobs</key>
+        <string>List active jobs</string>
+        <key>join</key>
+        <string>Join lines on a common field</string>
+        <key>kill</key>
+        <string>Kill a process by specifying its PID</string>
+        <key>killall</key>
+        <string>Kill processes by name</string>
+        <key>less</key>
+        <string>Display output one screen at a time</string>
+        <key>let</key>
+        <string>Perform arithmetic on shell variables •</string>
+        <key>link</key>
+        <string>Create a link to a file </string>
+        <key>ln</key>
+        <string>Create a symbolic link to a file</string>
+        <key>local</key>
+        <string>Create variables •</string>
+        <key>locate</key>
+        <string>Find files</string>
+        <key>logname</key>
+        <string>Print current login name</string>
+        <key>logout</key>
+        <string>Exit a login shell •</string>
+        <key>look</key>
+        <string>Display lines beginning with a given string</string>
+        <key>lpc</key>
+        <string>Line printer control program</string>
+        <key>lpr</key>
+        <string>Off line print</string>
+        <key>lprint</key>
+        <string>Print a file</string>
+        <key>lprintd</key>
+        <string>Abort a print job</string>
+        <key>lprintq</key>
+        <string>List the print queue</string>
+        <key>lprm</key>
+        <string>Remove jobs from the print queue</string>
+        <key>ls</key>
+        <string>List information about file(s)</string>
+        <key>lsof</key>
+        <string>List open files</string>
+        <key>make</key>
+        <string>Recompile a group of programs</string>
+        <key>man</key>
+        <string>Help manual</string>
+        <key>mkdir</key>
+        <string>Create new folder(s)</string>
+        <key>mkfifo</key>
+        <string>Make FIFOs (named pipes)</string>
+        <key>mkisofs</key>
+        <string>Create an hybrid ISO9660/JOLIET/HFS filesystem</string>
+        <key>mknod</key>
+        <string>Make block or character special files</string>
+        <key>more</key>
+        <string>Display output one screen at a time</string>
+        <key>most</key>
+        <string>Browse or page through a text file</string>
+        <key>mount</key>
+        <string>Mount a file system</string>
+        <key>mtools</key>
+        <string>Manipulate MS-DOS files</string>
+        <key>mtr</key>
+        <string>Network diagnostics (traceroute/ping)</string>
+        <key>mv</key>
+        <string>Move or rename files or directories</string>
+        <key>mmv</key>
+        <string>Mass Move and rename (files)</string>
+        <key>netstat</key>
+        <string>Networking information</string>
+        <key>nice</key>
+        <string>Set the priority of a command or job</string>
+        <key>nl</key>
+        <string>Number lines and write files</string>
+        <key>nohup</key>
+        <string>Run a command immune to hangups</string>
+        <key>notify-send</key>
+        <string>Send desktop notifications</string>
+        <key>nslookup</key>
+        <string>Query Internet name servers interactively</string>
+        <key>open</key>
+        <string>Open a file in its default application</string>
+        <key>op</key>
+        <string>Operator access</string>
+        <key>passwd</key>
+        <string>Modify a user password</string>
+        <key>paste</key>
+        <string>Merge lines of files</string>
+        <key>pathchk</key>
+        <string>Check file name portability</string>
+        <key>ping</key>
+        <string>Test a network connection</string>
+        <key>pkill</key>
+        <string>Kill processes by a full or partial name.</string>
+        <key>popd</key>
+        <string>Restore the previous value of the current directory</string>
+        <key>pr</key>
+        <string>Prepare files for printing</string>
+        <key>printcap</key>
+        <string>Printer capability database</string>
+        <key>printenv</key>
+        <string>Print environment variables</string>
+        <key>printf</key>
+        <string>Format and print data •</string>
+        <key>ps</key>
+        <string>Process status</string>
+        <key>pushd</key>
+        <string>Save and then change the current directory</string>
+        <key>pv</key>
+        <string>Monitor the progress of data through a pipe </string>
+        <key>pwd</key>
+        <string>Print Working Directory</string>
+        <key>quota</key>
+        <string>Display disk usage and limits</string>
+        <key>quotacheck</key>
+        <string>Scan a file system for disk usage</string>
+        <key>quotactl</key>
+        <string>Set disk quotas</string>
+        <key>ram</key>
+        <string>ram disk device</string>
+        <key>rar</key>
+        <string>Archive files with compression</string>
+        <key>rcp</key>
+        <string>Copy files between two machines</string>
+        <key>read</key>
+        <string>Read a line from standard input •</string>
+        <key>readarray</key>
+        <string>Read from stdin into an array variable •</string>
+        <key>readonly</key>
+        <string>Mark variables/functions as readonly</string>
+        <key>reboot</key>
+        <string>Reboot the system</string>
+        <key>rename</key>
+        <string>Rename files</string>
+        <key>renice</key>
+        <string>Alter priority of running processes</string>
+        <key>remsync</key>
+        <string>Synchronize remote files via email</string>
+        <key>return</key>
+        <string>Exit a shell function</string>
+        <key>rev</key>
+        <string>Reverse lines of a file</string>
+        <key>rm</key>
+        <string>Remove files</string>
+        <key>rmdir</key>
+        <string>Remove folder(s)</string>
+        <key>rsync</key>
+        <string>Remote file copy (Synchronize file trees)</string>
+        <key>screen</key>
+        <string>Multiplex terminal, run remote shells via ssh</string>
+        <key>scp</key>
+        <string>Secure copy (remote file copy)</string>
+        <key>sdiff</key>
+        <string>Merge two files interactively</string>
+        <key>sed</key>
+        <string>Stream Editor</string>
+        <key>select</key>
+        <string>Accept keyboard input</string>
+        <key>seq</key>
+        <string>Print numeric sequences</string>
+        <key>set</key>
+        <string>Manipulate shell variables and functions</string>
+        <key>sftp</key>
+        <string>Secure File Transfer Program</string>
+        <key>shift</key>
+        <string>Shift positional parameters</string>
+        <key>shopt</key>
+        <string>Shell Options</string>
+        <key>shutdown</key>
+        <string>Shutdown or restart linux</string>
+        <key>sleep</key>
+        <string>Delay for a specified time</string>
+        <key>slocate</key>
+        <string>Find files</string>
+        <key>sort</key>
+        <string>Sort text files</string>
+        <key>source</key>
+        <string>Run commands from a file '.'</string>
+        <key>split</key>
+        <string>Split a file into fixed-size pieces</string>
+        <key>ssh</key>
+        <string>Secure Shell client (remote login program)</string>
+        <key>stat</key>
+        <string>Display file or file system status </string>
+        <key>strace</key>
+        <string>Trace system calls and signals</string>
+        <key>su</key>
+        <string>Substitute user identity</string>
+        <key>sudo</key>
+        <string>Execute a command as another user</string>
+        <key>sum</key>
+        <string>Print a checksum for a file</string>
+        <key>suspend</key>
+        <string>Suspend execution of this shell</string>
+        <key>sync</key>
+        <string>Synchronize data on disk with memory</string>
+        <key>tail</key>
+        <string>Output the last part of file</string>
+        <key>tar</key>
+        <string>Store, list or extract files in an archive</string>
+        <key>tee</key>
+        <string>Redirect output to multiple files</string>
+        <key>test</key>
+        <string>Evaluate a conditional expression</string>
+        <key>time</key>
+        <string>Measure Program running time</string>
+        <key>timeout</key>
+        <string>Run a command with a time limit</string>
+        <key>times</key>
+        <string>User and system times</string>
+        <key>touch</key>
+        <string>Change file timestamps</string>
+        <key>top</key>
+        <string>List processes running on the system</string>
+        <key>tput</key>
+        <string>Set terminal-dependent capabilities, color, position</string>
+        <key>traceroute</key>
+        <string>Trace Route to Host</string>
+        <key>trap</key>
+        <string>Run a command when a signal is set(bourne)</string>
+        <key>tr</key>
+        <string>Translate, squeeze, and/or delete characters</string>
+        <key>true</key>
+        <string>Do nothing, successfully</string>
+        <key>tsort</key>
+        <string>Topological sort</string>
+        <key>tty</key>
+        <string>Print filename of terminal on stdin</string>
+        <key>type</key>
+        <string>Describe a command •</string>
+        <key>ulimit</key>
+        <string>Limit user resources •</string>
+        <key>umask</key>
+        <string>Users file creation mask umount Unmount a device</string>
+        <key>unalias</key>
+        <string>Remove an alias •</string>
+        <key>uname</key>
+        <string>Print system information</string>
+        <key>unexpand</key>
+        <string>Convert spaces to tabs</string>
+        <key>uniq</key>
+        <string>Uniquify files</string>
+        <key>units</key>
+        <string>Convert units from one scale to another</string>
+        <key>unrar</key>
+        <string>Extract files from a rar archive </string>
+        <key>unset</key>
+        <string>Remove variable or function names</string>
+        <key>unshar</key>
+        <string>Unpack shell archive scripts</string>
+        <key>until</key>
+        <string>Execute commands (until error) uptime Show uptime</string>
+        <key>useradd</key>
+        <string>Create new user account</string>
+        <key>userdel</key>
+        <string>Delete a user account</string>
+        <key>usermod</key>
+        <string>Modify user account</string>
+        <key>users</key>
+        <string>List users currently logged in</string>
+        <key>uuencode</key>
+        <string>Encode a binary file </string>
+        <key>uudecode</key>
+        <string>Decode a file created by uuencode</string>
+        <key>v</key>
+        <string>Verbosely list directory contents (`ls -l -b')</string>
+        <key>vdir</key>
+        <string>Verbosely list directory contents (`ls -l -b')</string>
+        <key>vi</key>
+        <string>Text Editor</string>
+        <key>vmstat</key>
+        <string>Report virtual memory statistics</string>
+        <key>wait</key>
+        <string>Wait for a process to complete </string>
+        <key>watch</key>
+        <string>Execute/display a program periodically</string>
+        <key>wc</key>
+        <string>Print byte, word, and line counts</string>
+        <key>whereis</key>
+        <string>Search the user's $path, man pages and source files for a program</string>
+        <key>which</key>
+        <string>Search the user's $path for a program file</string>
+        <key>while</key>
+        <string>Execute commands</string>
+        <key>who</key>
+        <string>Print all usernames currently logged in</string>
+        <key>whoami</key>
+        <string>Print the current user id and name (`id -un') wget Retrieve web pages or files via HTTP, HTTPS or FTP </string>
+        <key>write</key>
+        <string>Send a message to another user</string>
+        <key>xargs</key>
+        <string>Execute utility, passing constructed argument list(s)</string>
+        <key>xdg-open</key>
+        <string>Open a file or URL in the user's preferred application.</string>
+        <key>yes</key>
+        <string>Print a string until interrupted</string>
+        <key>zip</key>
+        <string>Package and compress (archive) files.</string>
+        <key>.</key>
+        <string>Run a command script in the current shell</string>
+        <key>!!</key>
+        <string>Run the last command again</string>
+        <key>###</key>
+        <string>Comment / Remark</string>
+    </dict>
+</plist>
